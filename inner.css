@@ -1,0 +1,118 @@
+body{
+    text-align: center;
+    background-image: url('https://wallpapercave.com/wp/wp2587747.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: right;
+    background-size:cover;
+}
+
+h1{
+    color:darkblue;
+    font-size: 48px;
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color:grey;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+h1:hover{
+    font-size: 48.3px;
+    color:rgb(2, 2, 70);
+}
+
+h3{
+    background-color:bisque;
+    width: 250px;
+    height: 20px;
+    margin: auto;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+p{
+    color: black;
+    font-size: 25px;
+}
+
+.song_1{
+    background-color:brown;
+    width: 400px;
+    height: 200px;
+    margin: 20px auto;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.song_1:hover{
+    width: 405px; /* Increase the width */
+    height: 205px; /* Increase the height */
+    background-color:darkred; /* Change the background color */
+}
+
+.song_1 img{
+    width: 60px;
+    height: 70px;
+    border-radius: 50%;
+}
+
+.song_2 img{
+    width: 60px;
+    height: 70px;
+    border-radius: 50%;
+}
+
+.song_1 h3{
+    background-color: darkgrey;
+}
+
+.song_2 {
+    background-color:darkgray;
+    width: 400px;
+    height: 200px;
+    margin: 20px auto;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.song_2:hover{
+    width: 405px; /* Increase the width */
+    height: 205px; /* Increase the height */
+    background-color:antiquewhite; /* Change the background color */
+}
+
+a{
+    text-decoration: none;
+    color:indigo;
+}
+
+.song_1 a:hover{
+    color:rgb(42, 3, 24);
+}
+
+.song_2 a:hover{
+    color: darkorange;
+}
+
+a p{
+    color: red;
+    text-align: right;
+    font-size: 18px;
+}
+
+a p:hover{
+    color: aqua;
+    text-decoration: underline;
+}
+
+h5{
+    color: red;
+    text-align: left;
+    font-size: 18px;
+}
+
+h5:hover{
+    color: aqua;
+    text-decoration: underline;
+}
